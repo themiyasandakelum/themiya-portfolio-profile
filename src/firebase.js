@@ -7,13 +7,12 @@ import { getAnalytics } from 'firebase/analytics';
 // You can get this configuration block from the Firebase Console:
 // Project Settings -> General -> Your Apps (create a web app if you haven't yet)
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "themiya-portfolio-profile.firebaseapp.com",
-  projectId: "themiya-portfolio-profile",
-  storageBucket: "themiya-portfolio-profile.firebasestorage.app",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyC33XbdoyBoaxNlBXpxfbsriAMzJMLYqTQ",
+  authDomain: "geolensegit-15672953-802e9.firebaseapp.com",
+  projectId: "geolensegit-15672953-802e9",
+  storageBucket: "geolensegit-15672953-802e9.firebasestorage.app",
+  messagingSenderId: "41715503101",
+  appId: "1:41715503101:web:38815df3dbef902acf1394"
 };
 
 // Initialize Firebase
